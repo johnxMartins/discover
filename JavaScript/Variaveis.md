@@ -4,7 +4,7 @@
 - Atalhos de código
 - Identificadores
 - 3 palavras reservadas para criar uma variável
-
+  >
 - Tipos:
   - var
   - let
