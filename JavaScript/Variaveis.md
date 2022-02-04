@@ -57,12 +57,11 @@ O bloco tambem criará um novo escopo. Chamamos de 'Block-Scoped'
 
     - Criar nomes que fazem sentido
     - Que explique o que a variável é ou faz
-    - camelCase
+    - camelCase >Sempre que vier um espaço a próxima letra é maíuscula<
     - snake_case
     - Escrever em ingles
 
 > Exemplo:
 >
 > > Ao invés disso: Let name = "João"
->
 > > Faça isso: Let checkIfNameExists = name === "João"
