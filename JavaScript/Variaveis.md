@@ -41,19 +41,19 @@ O bloco tambem criará um novo escopo. Chamamos de 'Block-Scoped'
 > JS é case-sensitive (sensível ao caso).
 > JS aceita a cadeia de caracteres Unicode
 
-#### Posso:
+## Posso:
 
     - Iniciar com esses caracteres especiais: $ \_
     - Iniciar com letras
     - Colocar acentos
     - Letras maíusculas e minúsculas fazem diferança
 
-#### Não posso:
+## Não posso:
 
     - Iniciar com números
     - Colocar espaçes vazios no nome
 
-#### Ideal:
+## Ideal:
 
     - Criar nomes que fazem sentido
     - Que explique o que a variável é ou faz
