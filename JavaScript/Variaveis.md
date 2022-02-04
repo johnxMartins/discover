@@ -63,5 +63,6 @@ O bloco tambem criará um novo escopo. Chamamos de 'Block-Scoped'
 
 > Exemplo:
 >
-> > Let name = "João")
-> > Let checkIfNameExists = name === "João"
+> > Ao invés disso: Let name = "João"
+>
+> > Faça isso: Let checkIfNameExists = name === "João"
