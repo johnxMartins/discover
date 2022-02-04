@@ -61,4 +61,7 @@ O bloco tambem criará um novo escopo. Chamamos de 'Block-Scoped'
     - snake_case
     - Escrever em ingles
 
-> Exemplo: (Let name = "João") != Let checkIfNameExists = name === "João"
+> Exemplo:
+>
+> > Let name = "João")
+> > Let checkIfNameExists = name === "João"
