@@ -57,9 +57,10 @@ O bloco tambem criará um novo escopo. Chamamos de 'Block-Scoped'
 
     - Criar nomes que fazem sentido
     - Que explique o que a variável é ou faz
-    - camelCase >Sempre que vier um espaço a próxima letra é maíuscula<
+    - camelCase (Sempre que vier um espaço a próxima letra é maíuscula)
     - snake_case
     - Escrever em ingles
+        - Alguns [motivos](https://www.lucascaton.com.br/2015/05/22/8-motivos-pra-programar-em-ingles) pra isso.
 
 > Exemplo:
 >
