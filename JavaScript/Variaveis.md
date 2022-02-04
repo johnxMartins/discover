@@ -4,11 +4,12 @@
 - Atalhos de código
 - Identificadores
 - 3 palavras reservadas para criar uma variável
-  >
-- Tipos:
-  - var
-  - let
-  - const (Não pode ser alterada)
+
+### Tipos:
+
+- var
+- let
+- const (Não pode ser alterada)
 
 O JS é uma linguagem fracamente tipada e dinâmica
 Variáveis não precisam ter um tipo previamente definido
