@@ -5,9 +5,9 @@
 > Identificadores
 > 3 palavras reservadas para criar uma variável
 
-    // var
-    // let
-    // const (Não pode ser alterada)
+    var
+    let
+    const (Não pode ser alterada)
 
 O JS é uma linguagem fracamente tipada e dinâmica
 Variáveis não precisam ter um tipo previamente definido
@@ -19,16 +19,17 @@ Escopo determina a visibilidade de alguma variável no JS.
 
 # Block statement (Declaração de bloco)
 
-// var é global e, também local
----Global
+    var é global e, também local
+    Global
+
 {
-////var = x //Local
+var = x //Local
 }
-// O bloco tambem criará um novo escopo. Chamamos de 'Block-Scoped'
+O bloco tambem criará um novo escopo. Chamamos de 'Block-Scoped'
 
 # Var
 
-// var é global e poderá funcionar fora de um escopo de bloco (>Cuidado<)
+    var é global e poderá funcionar fora de um escopo de bloco (>Cuidado<)
 
 ## Let e const
 
@@ -39,5 +40,6 @@ Escopo determina a visibilidade de alguma variável no JS.
 > JS é case-sensitive (sensível ao caso)
 > JS aceita a cadeia de caracteres Unicode
 
-// Posso:
-// Iniciar com esses caracteres
+- Posso:
+  - Iniciar com esses caracteres especiais: $ \_
+  - Iniciar
