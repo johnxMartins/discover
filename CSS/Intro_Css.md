@@ -17,3 +17,52 @@ Declarações são compostas por duas partes: as propiedades do elemento que voc
 deseja alterar, e os valores dessas propiedades. Por exemplo, a propiedade
 _font-family_ define a escolha da fonte, e o valor _arial_ especifica a fonte
 escolhida.
+
+# Cor
+
+Há três maneiras de especificar cores na CSS:
+
+- Valores RGB
+- Códigos hexadecimais
+- Nomes de cores
+
+Os seletores de cores podem ajudar a encontrar a cor que você quer. A CSS3
+introduziu um valor extra para cores RGB a fim de indicar a opacidade. Ele
+é conhecido como RGBA.
+
+A CSS3 tambem permite especificar cores como valores _HSL_, com um valor
+opcional de opacidade. Este é conhecido como _HSLA_.
+
+# Cascata (cascading)
+
+A escolha do browser de qual regra aplicar, caso haja muitas regras para o
+mesmo elemento.
+
+> Seu estilo é lido de cima para baixo.
+
+É levado em consideração 3 fatores
+
+1. Origem do estilo
+2. Especificidade
+3. Importância
+
+## Origem do estilo
+
+inline > tag style > tag link
+
+## Especificidade
+
+É um cálculo matamático, onde, cada tipo de seletor e origem de estilo, possuem
+valores a serem considerados.
+
+0. Universal seletor, combinators e nagation pseudo-class (:not())
+1. Element type selector e pseudo-elements (::before, ::after)
+2. Classes e attribute selectors ([type="radio"])
+3. ID selector
+4. Inline
+
+## A regra !important
+
+- cuidado, evite o uso
+- não é considerado uma boa prática
+- quebra o fluxo natural da cascata
