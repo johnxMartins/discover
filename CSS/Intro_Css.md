@@ -56,13 +56,28 @@ inline > tag style > tag link
 valores a serem considerados.
 
 0. Universal seletor, combinators e nagation pseudo-class (:not())
-1. Element type selector e pseudo-elements (::before, ::after)
-2. Classes e attribute selectors ([type="radio"])
-3. ID selector
-4. Inline
+1. Element type selector e pseudo-elements (::before, ::after) (_+_)
+2. Classes e attribute selectors ([type="radio"]) (_++_)
+3. ID selector (_+++_)
+4. Inline (_O mais forte ++++_)
 
 ## A regra !important
 
-- cuidado, evite o uso
+- cuidado, **evite o uso**
 - não é considerado uma boa prática
 - quebra o fluxo natural da cascata
+
+## At-rules
+
+- Está relacionado ao comportamento do CSS
+- Começa com o sinal de '@' seguido de identificador e valor
+
+## Exemplos comuns
+
+- @import /_ incluir um CSS externo _/
+
+- @media /_ regras condicionais para dispositivos _/
+
+- @font-face /_ fontes externas _/
+
+- @keyframes /_ Animation _/
