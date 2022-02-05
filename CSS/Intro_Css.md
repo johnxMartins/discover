@@ -4,7 +4,7 @@ A CSS trata cada elemento HTML como se ele aparecesse dentro
 de uma caixa própia e usa regras para indicar a aparência que esse
 elemento deve ter.
 
-# Seletores
+## Seletores
 
 As regras são compostas por seletores (que especificam os elementos aos
 quais a regra se aplica) e declarações (que indicam a aparência que esse
