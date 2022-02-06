@@ -74,13 +74,13 @@ valores a serem considerados.
 
 ## Exemplos comuns
 
-- @import /_ incluir um CSS externo _/
+- @import _incluir um CSS externo_
 
-- @media /_ regras condicionais para dispositivos _/
+- @media _regras condicionais para dispositivos_
 
-- @font-face /_ fontes externas _/
+- @font-face _fontes externas_
 
-- @keyframes /_ Animation _/
+- @keyframes _Animation_
 
 # Shorthand
 
@@ -151,5 +151,5 @@ p {
 
 # Consultas
 
-[http://ireade.github.io/which-vendor-prefix/]
-[http://caniuse.com]
+- [http://ireade.github.io/which-vendor-prefix/]
+- [http://caniuse.com]
