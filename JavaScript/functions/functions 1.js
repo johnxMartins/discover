@@ -44,3 +44,19 @@ sayMyName(() => {
   console.log('estou em uma callback')
 })
 */
+
+// Functio() constructor
+// expressao new
+// criar um novo objeto
+// this keyword
+
+function Person(name) {
+  this.name = name
+  this.walk = function () {
+    return this.name + ' está andando'
+  }
+}
+const john = new Person('john')
+const maria = new Person('maria') //instanciar um novo objeto
+console.log(john.walk())
+console.log(maria.walk())
