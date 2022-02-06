@@ -81,3 +81,53 @@ valores a serem considerados.
 - @font-face /_ fontes externas _/
 
 - @keyframes /_ Animation _/
+
+# Shorthand
+
+- junção de propiedades
+- resumido
+- legível
+
+```css
+ {
+  /* Background properties */
+  background-color: #000;
+  background-image: url(images/bg.gif);
+  background-repeat: no-repeat;
+  background-position: left top;
+
+  /* background shorthand */
+  background: #000 url(images/bg.gif) no-repeat left top;
+
+  /* font properties */
+  font-style: italic;
+  font-weight: bold;
+  font-size: .8em;
+  line-height; 1.2;
+  font-family: Arial, sans-serif;
+
+  /* font shorthand */
+  font: italic bold .8em/1.2 Arial, sans-serif;
+}
+```
+
+## Detalhes
+
+- não irá considerar propidades anteirios
+- valores não especificados irão assumir o valor padrão
+- geralmente, a ordem descrita não importa, mas, se houver muitas propiedades
+  com valores semelhantes, poderemos encotrar problemas
+
+# Funções
+
+- nome seguido de abre e fecha parentesis
+- recebe argumentos
+
+## Exemplos
+
+```css
+@import url('http://urlaqui.com/style.css') {
+  color: rgb(255, 0, 100);
+  width: calc(100% - 10px);
+}
+```
