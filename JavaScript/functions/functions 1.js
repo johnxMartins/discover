@@ -24,8 +24,23 @@ function sayMyName() {
 }
 */
 
+/*
 // arrow Function
 const sayMyName = () => {
   console.log('Nome')
 }
 sayMyName()
+*/
+
+/*
+// Callback function
+function sayMyName(name) {
+  console.log('antes de executar a callback')
+  name()
+  console.log('depois de executar a callback')
+}
+
+sayMyName(() => {
+  console.log('estou em uma callback')
+})
+*/
