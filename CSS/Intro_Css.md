@@ -74,13 +74,13 @@ valores a serem considerados.
 
 ## Exemplos comuns
 
-- @import _incluir um CSS externo_
+- @import (_incluir um CSS externo_)
 
-- @media _regras condicionais para dispositivos_
+- @media (_regras condicionais para dispositivos_)
 
-- @font-face _fontes externas_
+- @font-face (_fontes externas_)
 
-- @keyframes _Animation_
+- @keyframes (_Animation_)
 
 # Shorthand
 
