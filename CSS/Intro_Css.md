@@ -126,8 +126,30 @@ valores a serem considerados.
 ## Exemplos
 
 ```css
-@import url('http://urlaqui.com/style.css') {
+@import url('http://urlaqui.com/style.css');
+ {
   color: rgb(255, 0, 100);
   width: calc(100% - 10px);
 }
 ```
+
+# Vendor Prefixes
+
+Permite que browsers adicione `features` a fim de colocar
+em uso alguma novidade que vemos no CSS.
+
+# Exemplo
+
+```css
+p {
+  -webkit-background-clip: text; /* Chrome, Safari, IOS e Android */
+  -moz-background-clip: text; /* Mozilla (Firefox) */
+  -ms-background-clip: text; /* Internet Explorer */
+  -o-background-clip: text; /* Opera */
+}
+```
+
+# Consultas
+
+[http://ireade.github.io/which-vendor-prefix/]
+[http://caniuse.com]
