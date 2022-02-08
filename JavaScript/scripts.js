@@ -63,6 +63,7 @@ let myArray = new Array('a', 'b', 'c')
 console.log(myArray)
 */
 
+/*
 // Elementos do Array
 console.log(
   [
@@ -73,3 +74,9 @@ console.log(
     }
   ].length
 )
+*/
+
+// Strings para arrays
+// transformar uma cadeia de caracteres em elementos de um array
+let word = 'manipulação'
+console.log(Array.from(word))
