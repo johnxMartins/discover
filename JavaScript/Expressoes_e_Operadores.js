@@ -62,3 +62,13 @@ console.log(two == 1) //false
 console.log(one == '1') //True
 // != diferente de
 console.log(one != two) //True
+
+// Operadores de comparação estritamente igual e estritamente diferente
+let one = 1
+let two = 2
+// '===' estritamente igual a (compara o valor e o tipo)
+console.log(one === '1') //False
+console.log(one === 1) //True
+// !== Estritamente diferente de
+console.log(two !== '2') //True
+console.log(two !== 2) //False
