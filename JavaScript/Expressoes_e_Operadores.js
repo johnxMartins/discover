@@ -106,3 +106,11 @@ x **= 2
 
 // remainder assignment (resto de divisão):
 x %= 2
+
+// Operadores lógicos (logical operators)
+// Valores booleanos quando verificados, resultará em verdadeiro ou falso
+let pao = true
+let queijo = true
+// AND '&&' os dois valores devem ser iguais/True
+// OR '||' se tiver um dos 2 já retornará true
+// NOT '!' nega, troca o valor
