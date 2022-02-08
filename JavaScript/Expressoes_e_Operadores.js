@@ -72,3 +72,12 @@ console.log(one === 1) //True
 // !== Estritamente diferente de
 console.log(two !== '2') //True
 console.log(two !== 2) //False
+
+// Operadores de comparação maior e menor (igual)
+let one = 1
+let two = 2
+// '>' maior que
+// '>=' maior igual à
+// '<=' menor igual à
+console.log(one <= two) //True
+console.log(one <= 0) //False
