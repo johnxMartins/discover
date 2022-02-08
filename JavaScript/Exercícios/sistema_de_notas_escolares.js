@@ -10,7 +10,7 @@ numérico para sistema de notas em caracteres tipo A B C
 */
 
 let notas = 60
-if (notas < 60) {
+if (notas < 60 && notas >= 0) {
   console.log('F')
 }
 if (notas >= 60 && notas < 70) {
