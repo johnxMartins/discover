@@ -34,6 +34,17 @@ console.log(number)
 
 // Manipulando letras Maiúsculas e Minúsculas
 
+/*
 let word = 'Maça é bom'
 console.log(word.toUpperCase())
 console.log(word.toLocaleLowerCase())
+*/
+
+// Separando Strings
+// Separe um texto que contem espaços, em um novo array aonde cada texto é uma posição do array. Depois
+// disso, transforme o array em um texto e onde eram espaços coloque _
+let phrase = 'Eu quero viver!'
+let myArray = phrase.split(' ')
+console.log(myArray)
+let phraseWithUnderscore = myArray.join('_')
+console.log(phraseWithUnderscore)
