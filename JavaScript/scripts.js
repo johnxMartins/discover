@@ -57,6 +57,19 @@ let phrase = 'Eu quero viver!'
 console.log(phrase.includes('amor')) //case sensitive 'amor' != 'Amor'
 */
 
+/*
 // Criando Array com Construtor
 let myArray = new Array('a', 'b', 'c')
 console.log(myArray)
+*/
+
+// Elementos do Array
+console.log(
+  [
+    'a',
+    { type: 'array' },
+    function () {
+      return 'alo'
+    }
+  ].length
+)
