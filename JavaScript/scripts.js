@@ -51,6 +51,12 @@ let phraseWithUnderscore = myArray.join('_')
 console.log(phraseWithUnderscore)
 */
 
+/*
 //Encontrando palavras em frases
 let phrase = 'Eu quero viver!'
 console.log(phrase.includes('amor')) //case sensitive 'amor' != 'Amor'
+*/
+
+// Criando Array com Construtor
+let myArray = new Array('a', 'b', 'c')
+console.log(myArray)
