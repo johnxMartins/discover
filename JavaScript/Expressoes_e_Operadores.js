@@ -43,3 +43,22 @@ console.log(decrement)
 
 /* exponencial: sinal ** */
 console.log(2 ** 3)
+
+// Grouping Operator
+let total = (2 + 3) * 5
+console.log(total)
+// o cálculo mudou a precedência, fazendo nosso resultado tornar-se 25.
+
+let total = 2 + 3 * 5
+console.log(total)
+//com essa precedência, nosso resultado é 17.
+
+// Operadores de comparação igual a e diferente de
+// Irá comparar valores e retornar um Boolean como resposta à comparação
+let one = 1
+let two = 2
+// == igual à
+console.log(two == 1) //false
+console.log(one == '1') //True
+// != diferente de
+console.log(one != two) //True
