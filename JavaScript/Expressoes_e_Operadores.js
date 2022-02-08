@@ -114,3 +114,16 @@ let queijo = true
 // AND '&&' os dois valores devem ser iguais/True
 // OR '||' se tiver um dos 2 já retornará true
 // NOT '!' nega, troca o valor
+
+// Operador condicional (ternário)
+// Dependendo da condição, nós receberemos valores diferentes
+// Condição então valor 1 senão valor 2
+// condition ? value1 : value2
+// Exemplo:
+// Café da manhã top
+let pao = false
+let queijo = false
+
+const niceBreakfast = pao || queijo ? 'Café top' : 'Café ruim'
+
+console.log(niceBreakfast)
