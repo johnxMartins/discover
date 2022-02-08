@@ -125,5 +125,10 @@ let pao = false
 let queijo = false
 
 const niceBreakfast = pao || queijo ? 'Café top' : 'Café ruim'
-
 console.log(niceBreakfast)
+
+// Operadores para string (string operator)
+// comparison ('a' == 'a')
+// concatenation (retorna a união de 2 strings)
+let alpha = 'alpha'
+console.log(alpha + 'bet' + 's')
