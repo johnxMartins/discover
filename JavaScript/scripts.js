@@ -40,6 +40,7 @@ console.log(word.toUpperCase())
 console.log(word.toLocaleLowerCase())
 */
 
+/*
 // Separando Strings
 // Separe um texto que contem espaços, em um novo array aonde cada texto é uma posição do array. Depois
 // disso, transforme o array em um texto e onde eram espaços coloque _
@@ -48,3 +49,8 @@ let myArray = phrase.split(' ')
 console.log(myArray)
 let phraseWithUnderscore = myArray.join('_')
 console.log(phraseWithUnderscore)
+*/
+
+//Encontrando palavras em frases
+let phrase = 'Eu quero viver!'
+console.log(phrase.includes('amor')) //case sensitive 'amor' != 'Amor'
