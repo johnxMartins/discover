@@ -3,7 +3,7 @@
 - É um ambiente de execução
 - Uma plataforma em que é possível criar aplicações JavaScript sem
   depender do browser para execução
-  ![NodeJS](https://github.com/johnxMartins/discover/blob/johnminatow/imagens/nodeJS.png)
+  - ![NodeJS](https://github.com/johnxMartins/discover/blob/johnminatow/imagens/nodeJS.png)
 
 # Vantagens de usar o nodeJS
 
