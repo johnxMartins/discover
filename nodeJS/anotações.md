@@ -32,3 +32,4 @@
 - Focado para Chrome mas tem todo o cuidado de não quebrar o Node
   - Ou seja só seram adicionadas novas features se não quebrar o node
 - Não possui a DOM, console ou File System
+  ![V8](https://github.com/johnxMartins/discover/blob/johnminatow/imagens/V8.jpg)
