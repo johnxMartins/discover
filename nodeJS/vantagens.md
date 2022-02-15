@@ -22,4 +22,4 @@
 - É um ambiente de execução
 - Uma plataforma em que é possível criar aplicações JavaScript sem
   depender do browser para execução
-  ![NodeJS](https://github.com/johnxMartins/clone_Spotify/blob/johnminatow/prints/gif1.gif)
+  ![NodeJS](https://github.com/johnxMartins/discover/blob/johnminatow/imagens/nodeJS.png)
