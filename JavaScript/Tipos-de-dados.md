@@ -36,15 +36,15 @@
 
 > > Object
 
--Array
--Map
--Set
--Date
+- Array
+- Map
+- Set
+- Date
 > > Function
 
 ## Primitivo Estrutural / Structural Root Primitive
 
--Null
+- Null
 
 # -----------------------------------------------------------------
 
@@ -52,16 +52,16 @@
 
 > cadeia de caracteres ABCD
 
--"" aspas duplas
--'' aspas simples
--`` template literals ou template strings
+- "" aspas duplas
+- '' aspas simples
+- `` template literals ou template strings
 
 # Boolean
 
 > somente 2 valores
 
--True -- Verdadeiro
--False -- falso
+- True -- Verdadeiro
+- False -- falso
 
 # Undefined
 
@@ -78,8 +78,7 @@
 > objeto
 > propiedades - atributos
 > funcionalidades - métodos
-
-      //{ propiedade: "Valor" }
+- { propiedade: "Valor" }
 
 # Array (vetores)
 
