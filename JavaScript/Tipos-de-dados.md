@@ -1,32 +1,32 @@
 # Tipos de dados
 
 # Gramática
-*Elementos da linguagem e suas combinações
-*A arte de falar e escrever corretamente
+- Elementos da linguagem e suas combinações
+- A arte de falar e escrever corretamente
 
 ## Vocabulário
-*Conjunto de termos e expressões
-*Agrupamento de palavras
-*Precisamos saber como escrever
-* Precisamos saber os significados
-*Precisamos continuar aprendendo, para crescer nosso vocabulário.
+- Conjunto de termos e expressões
+- Agrupamento de palavras
+- Precisamos saber como escrever
+- Precisamos saber os significados
+- Precisamos continuar aprendendo, para crescer nosso vocabulário.
 
 ## Tipos de dados
 
--Conforme o ECMAScript temos 9 tipos de dados:
--Data types
--Primitive - Primitive value
--Structural
--Structural Primitive
+- Conforme o ECMAScript temos 9 tipos de dados:
+- Data types
+- Primitive - Primitive value
+- Structural
+- Structural Primitive
 
 ## Primitivos
 
--String
--Number
--Boolean
--Undefined
--Symbol
--BigInt
+- String
+- Number
+- Boolean
+- Undefined
+- Symbol
+- BigInt
 
 > > Conceito e escrita
 > > Aprender os tipos de dados mais utilizados
