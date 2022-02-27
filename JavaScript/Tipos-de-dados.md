@@ -1,37 +1,32 @@
 # Tipos de dados
 
 # Gramática
+*Elementos da linguagem e suas combinações
+*A arte de falar e escrever corretamente
 
-        // Elementos da linguagem e suas combinações
-        // A arte de falar e escrever corretamente
+## Vocabulário
+*Conjunto de termos e expressões
+*Agrupamento de palavras
+*Precisamos saber como escrever
+* Precisamos saber os significados
+*Precisamos continuar aprendendo, para crescer nosso vocabulário.
 
-# Vocabulário
+## Tipos de dados
 
-        // Conjunto de termos e expressões
-        // Agrupamento de palavras
-
-# Precisamos saber como escrever
-
-# Precisamos saber os significados
-
-# Precisamos continuar aprendendo, para crescer nosso vocabulário.
-
-# ---Tipos de dados
-
-Conforme o ECMAScript temos 9 tipos de dados:
-// Data types
-----// Primitive - Primitive value
-----// Structural
-----// Structural Primitive
+-Conforme o ECMAScript temos 9 tipos de dados:
+-Data types
+-Primitive - Primitive value
+-Structural
+-Structural Primitive
 
 ## Primitivos
 
-    // String
-    // Number
-    // Boolean
-    // Undefined
-    // Symbol
-    // BigInt
+-String
+-Number
+-Boolean
+-Undefined
+-Symbol
+-BigInt
 
 > > Conceito e escrita
 > > Aprender os tipos de dados mais utilizados
@@ -41,17 +36,15 @@ Conforme o ECMAScript temos 9 tipos de dados:
 
 > > Object
 
-      // Array
-      // Map
-      // Set
-      // Date
-      // ...
-
+-Array
+-Map
+-Set
+-Date
 > > Function
 
 ## Primitivo Estrutural / Structural Root Primitive
 
-// null
+-Null
 
 # -----------------------------------------------------------------
 
@@ -59,16 +52,16 @@ Conforme o ECMAScript temos 9 tipos de dados:
 
 > cadeia de caracteres ABCD
 
-    // "" aspas duplas
-    // '' aspas simples
-    // `` template literals ou template strings
+-"" aspas duplas
+-'' aspas simples
+-`` template literals ou template strings
 
 # Boolean
 
 > somente 2 valores
 
-    // True -- Verdadeiro
-    // False -- falso
+-True -- Verdadeiro
+-False -- falso
 
 # Undefined
 
