@@ -34,19 +34,16 @@
 
 ## Estruturais
 
-> > Object
-
+- Object
 - Array
 - Map
 - Set
 - Date
-> > Function
+- Function
 
 ## Primitivo Estrutural / Structural Root Primitive
 
 - Null
-
-# -----------------------------------------------------------------
 
 # String
 
@@ -65,22 +62,22 @@
 
 # Undefined
 
-> > Tipo indefinido
+- Tipo indefinido
 
 # Null
 
-> nulo
-> objeto que não possui nada dentro
-> diferente de indefinido
+- nulo
+- objeto que não possui nada dentro
+- diferente de indefinido
 
 # Object
 
-> objeto
-> propiedades - atributos
-> funcionalidades - métodos
+- objeto
+- propiedades - atributos
+- funcionalidades - métodos
 - { propiedade: "Valor" }
 
 # Array (vetores)
 
-> uma lista
-> agrupamento de dados
+- uma lista
+- agrupamento de dados
